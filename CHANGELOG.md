@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/firestore?activeTab=versions
 
+### [3.4.2](https://www.github.com/googleapis/nodejs-firestore/compare/v3.4.1...v3.4.2) (2020-02-01)
+
+
+### Bug Fixes
+
+* better parameter naming in path template helpers ([aac02f4](https://www.github.com/googleapis/nodejs-firestore/commit/aac02f463ba13c385a6dc5a4d96e281e0801cc93))
+* retry streaming methods if initial write errored ([#897](https://www.github.com/googleapis/nodejs-firestore/issues/897)) ([2ec0489](https://www.github.com/googleapis/nodejs-firestore/commit/2ec0489127faea88dca95e6dc169efe6e55d330d))
+
 ### [3.4.1](https://www.github.com/googleapis/nodejs-firestore/compare/v3.4.0...v3.4.1) (2020-01-22)
 
 
